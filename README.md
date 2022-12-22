@@ -6,4 +6,4 @@
 <li>I am also interested in a wide range of subjects, such as psychology, modern history and much more :books:</li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=TolisSth&count_private=true$show_icons=true&theme=dracula" alt="Toli's GitHub stats"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolisSth&layout=compact" alt="top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolisSth&theme=dracula" alt="top languages">

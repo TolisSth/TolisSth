@@ -6,5 +6,5 @@
 <li>I am also interested in a wide range of subjects, such as psychology, modern history and much more :books:</li>
 </ul>
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TolisSth&count_private=true)
+![Tolis's GitHub stats](https://github-readme-stats.vercel.app/api?username=TolisSth&count_private=true)
 </div>

@@ -1,4 +1,5 @@
 # Hello, my name's Apostolos
-- 21 year old software technician
-- Experienced in Python, Java, Unix systems, React, Tailwind, Selenium. 
+- 21 year old software technician and researcher
+- Experienced in Python, Django and React
+- Currently working on HPC research
 - Open to collaborations

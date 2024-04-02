@@ -1,5 +1,6 @@
-# Hello, my name's Apostolos
-- 21 year old software technician and researcher
-- Experienced in Python, Django and React
-- C++ 
+# Hello my name is Apostolos
+- Software technician & researcher
+- Rust/C++
 - Currently working on HPC research
+- Experienced in Python, Django and React
+

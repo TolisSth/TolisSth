@@ -1,4 +1,4 @@
-# Hello my name is Apostolos
+# Hello
 - Software technician & researcher
 - Rust/C++
 - Currently working on HPC research

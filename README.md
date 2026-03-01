@@ -1,6 +1,4 @@
-# Hello
-- Software technician
-- Rust/C++
-- Currently working on HPC research
-- Experienced in Python, Django and React
+- Software technician/Researcher
+- Python/C++
+- Currently working on HPC research and scientific computing
 
